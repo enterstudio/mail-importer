@@ -62,7 +62,7 @@
         <dependency>
             <groupId>org.mnode.mstor</groupId>
             <artifactId>mstor</artifactId>
-            <version>0.9.13</version>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
